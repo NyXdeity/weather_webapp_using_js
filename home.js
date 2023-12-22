@@ -1,4 +1,5 @@
 const apiKey = "3945d5ffeed3814f174dc627b1d3bdcc";
+// const apiKey = "edcccd400d30778e5ad6e9b4aee8f925";
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?appid=3945d5ffeed3814f174dc627b1d3bdcc&q=";
 const weatherIcon = document.querySelector(".weather-icon");
 
