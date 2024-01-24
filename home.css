@@ -6,8 +6,9 @@
 }
 body{
     /* background: #222; */
-    background: linear-gradient(270deg,#dea9fc,#8829bf);
-    
+    /* background: linear-gradient(270deg,#dea9fc,#8829bf); */
+    /* background: linear-gradient(0deg,#0f2b34,#193942,#396276,#6e94a9,#aebbc3); */
+    background: linear-gradient(270deg,#1e2025,#29343d,#3c5665,#69818d,#92a4b1,#5a636a);
 }
 .card{
     width: 90%;
