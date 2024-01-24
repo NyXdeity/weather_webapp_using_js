@@ -11,7 +11,18 @@ body{
     background: linear-gradient(270deg,#1e2025,#29343d,#3c5665,#69818d,#92a4b1,#5a636a);
 }
 .card{
-
+ 
+    width: 90%;
+    max-width: 470px;
+    /* background: linear-gradient(135deg,#00feba,#5b548a); */
+    /* background: linear-gradient(135deg,#fed,#9f9ea3); */
+    /* background: linear-gradient(135deg,#1e2025,#29343d,#3c5665,#69818d,#92a4b1,#5a636a); */
+    background: linear-gradient(0deg,#c49b7c,#897769,#535351,#203538,#11242a);
+    color: #ffff;
+    margin: 90px auto 0;
+    border-radius: 10%;
+    padding: 40px 35px;
+    text-align: center;
 }
 .search{
     width: 100%;
