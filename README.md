@@ -1,4 +1,4 @@
 # weather_webapp_using_js
 This is a mini project that uses API and javaScript with some basic frontend.
 Deployed link:-
-https://vanilajsweatherwebapp.netlify.app/
+https://vanillajsweatherwebapp.netlify.app/
