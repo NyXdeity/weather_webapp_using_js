@@ -33,7 +33,7 @@ body{
 .search input{
     border: 0;
     outline: 0;
-    background: #ebfffc;
+    background: #ffffff;
     color: #555;
     padding: 10px 25px;
     height: 60px;
@@ -45,7 +45,7 @@ body{
 .search button{
     border: 0;
     outline: 0;
-    background: #ebfffc;
+    background: #ffffff;
     border-radius: 50%;
     width: 60px;
     height: 60px;
